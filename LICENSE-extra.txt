@@ -1,0 +1,2 @@
+This project uses dsj, which is under it's own license. It's free for non-commercial use.
+You should read it's license here (http://www.humatic.de/htools/dsj/download.htm).
